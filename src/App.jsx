@@ -5,7 +5,7 @@ import toast, { Toaster } from 'react-hot-toast'
 
 import Navbar from './component/Navbar'
 import Favorites from './pages/Favorite'
-import Movies from './pages/Movies'
+import Movies from './pages/Movies' 
 import Home from './pages/Home'
 
 import { Routes, Route } from 'react-router-dom'
