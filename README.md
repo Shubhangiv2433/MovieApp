@@ -23,6 +23,11 @@ A modern movie search web application built using React, Tailwind CSS, and OMDb 
 * React Hot Toast
 * React Icons
 * API Integration
+ 
+ ---
+
+🌐 Live Demo
+https://movie-app-ub4h.vercel.app/
 
 ---
 
